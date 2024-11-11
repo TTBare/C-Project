@@ -1,0 +1,16 @@
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.AssemblyInfoInputs.cache
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.AssemblyInfo.cs
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.csproj.CoreCompileInputs.cache
+C:\Users\tbarenghi\Desktop\ProgramaGestion\bin\Debug\net8.0\ProgramaGestion.exe
+C:\Users\tbarenghi\Desktop\ProgramaGestion\bin\Debug\net8.0\ProgramaGestion.deps.json
+C:\Users\tbarenghi\Desktop\ProgramaGestion\bin\Debug\net8.0\ProgramaGestion.runtimeconfig.json
+C:\Users\tbarenghi\Desktop\ProgramaGestion\bin\Debug\net8.0\ProgramaGestion.dll
+C:\Users\tbarenghi\Desktop\ProgramaGestion\bin\Debug\net8.0\ProgramaGestion.pdb
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.dll
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\refint\ProgramaGestion.dll
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.pdb
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.genruntimeconfig.cache
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ref\ProgramaGestion.dll
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.csproj.Fody.CopyLocal.cache
+C:\Users\tbarenghi\Desktop\ProgramaGestion\obj\Debug\net8.0\ProgramaGestion.csproj.Fody.RuntimeCopyLocal.cache
